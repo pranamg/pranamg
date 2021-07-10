@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranamg
 - 👀 I’m interested in DIY projects
-- 🌱 I’m currently learning DAX and github
+- 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on tiny projects
 - 📫 How to reach me ...
 
